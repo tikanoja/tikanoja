@@ -1,6 +1,6 @@
-## Hey, I'm [Tuukka](https://www.linkedin.com/in/tuukka-tikanoja/) 
+## Hey, I'm [Tuukka](https://www.linkedin.com/in/tuukka-tikanoja/)! 👋
 
-*Welcome to my Github profile!* 👋
+*Welcome to my Github profile!*
 
 - 🐝 Current student at [Hive Helsinki](https://www.hive.fi/en/) (Software Engineering/Development)
 - 💻 C, C++, JavaScript, Git, Unix CLI
@@ -22,4 +22,4 @@
 
 In any case, don't hesitate to [contact me](https://www.linkedin.com/in/tuukka-tikanoja/)! 🤝
 
-Thank you for stopping by, hope you enjoyed your stay!
+Thank you for stopping by, I hope you enjoyed your stay! 🤠
