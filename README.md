@@ -3,7 +3,7 @@
 *Welcome to my Github profile!*
 
 - 🐝 Current student at [Hive Helsinki](https://www.hive.fi/en/) (Software Engineering/Development)
-- 💻 C, C++, JavaScript, Git, Unix CLI
+- 💻 C, C++, JavaScript, Git, Docker, Unix CLI
 - 🧚‍♂️ Forest walks, gym, Sci-Fi & techno
 
 ### Project Highlights
