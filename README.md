@@ -2,11 +2,14 @@
 
 *Welcome to my Github profile!*
 
-- 🐝 Current student at [Hive Helsinki](https://www.hive.fi/en/) (Software Engineering/Development)
-- 💻 C, C++, JavaScript, Git, Docker, Unix CLI
+- 🐝 Recently graduated from [Hive Helsinki](https://www.hive.fi/en/) (Software Engineering / Development)
+- ✏️ Current student at [Haaga-Helia UAS]([https://www.hive.fi/en/](https://www.haaga-helia.fi/en/bachelor/degree-programme-business-information-technology?gad_source=1)) (Business IT / Software Development)
+- 💻 C, C++, Python, Java, JavaScript, Git, Docker, Unix CLI
 - 🧚‍♂️ Forest walks, gym, Sci-Fi & techno
 
 ### Project Highlights
+
+- **[ft_transcendence](https://github.com/tikanoja/ft_transcendence)**: A multiplayer game platform webapp.
 
 - **[ft_irc](https://github.com/tikanoja/ft_irc)**: An IRC server. Network programming in C++.
 
