@@ -2,6 +2,7 @@
 
 *Welcome to my Github profile!*
 
+- 👁️ Software developer working in machine vision
 - 🐝 Graduated from [Hive Helsinki](https://www.hive.fi/en/) (Software Engineering / Development)
 - ✏️ Current student at [Haaga-Helia UAS](https://www.haaga-helia.fi/en/bachelor/degree-programme-business-information-technology?gad_source=1) (Business IT / Software Development)
 - 💻 C, C++, Python, Java, JavaScript, Git, Docker, Unix CLI
